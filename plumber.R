@@ -15,7 +15,7 @@ library(plumber)
 #* @apiTitle Plumber Example API
 
 #* Echo back the input
-#* @param msg The message to echo
+#* @param msg The message to echoset
 #* @get /echo
 function(msg=""){
   list(msg = paste0("The message is: '", msg, "'"))
