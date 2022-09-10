@@ -1,0 +1,9 @@
+file: lego-sets.rds
+file_size: 243964
+pin_hash: b2ff69b082754e0c
+type: rds
+title: 'lego-sets: a pinned list'
+description: A LiblineaR regression modeling workflow
+created: 20220910T072434Z
+api_version: 1.0
+user: []
